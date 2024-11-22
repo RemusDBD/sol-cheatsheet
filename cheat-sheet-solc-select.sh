@@ -1,3 +1,6 @@
+# I ran this on vscode terminal
+# Guide followed by : https://www.youtube.com/watch?v=zUpbZRmITZQ 
+
 # etherumbook - solc-select 
 $solc-select install 0.6.4
 #Installing solc '0.6.4'...
