@@ -6,3 +6,4 @@ Tool for compiling on old version solidity contract :
 
 Output/Convert solidity contract to low-level formats :
 - [solc-output](https://github.com/RemusDBD/sol-cheatsheet/blob/main/cheat-sheet-solc-output.sh)
+  - [example](https://github.com/RemusDBD/sol-cheatsheet/tree/main/example/cheat-sheet-solc-output)
